@@ -19,7 +19,7 @@
 
 ## Data Cleaning and Modification (For link, click [here](https://github.com/ereedy777/Online_Gaming_Betting/blob/main/Data_Alteration.sql))
 15.  win_rate: This would be taken as the Return to Player(RTP) value
-16. GGR: Gross Gaming Revenue (This will be the primary gross revenue utilized in analysis)
+16. GGR: Gross Gaming Revenue 
 17. NGR: Net Gaming Revenue
 
 ## Overall Analysis using SQL 
