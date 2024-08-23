@@ -3,6 +3,8 @@
 #### This repository contains the code and data for analyzing online gaming using MySQL as the data store and Power BI for data visualization and analysis. Explores Gross Gaming Revenue(GGR), Hold Percentages , and more KPIs from 3 different Licensees to understand online gaming trends and ultimately come up with insights and suggestions for how to improve business growth.
 
 ## Data Description (Original csv file [here](https://github.com/ereedy777/Online_Gaming_Betting/blob/main/Online_Sports_Betting.csv))
+
+#### Columns:
 1. Licensee: Entity that operates on betting or wagering activities
 2. Fiscal_Year: The Fiscal Years that this is derived from (FY 21 - FY 23)
 3. date: End date of month 
