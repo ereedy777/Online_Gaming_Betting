@@ -3,50 +3,49 @@
 #### This repository contains the code and data for analyzing online gaming using MySQL as the data store and Power BI for data visualization and analysis. Explore Gross Gaming Revenue(GGr), Hold Percentages , and more KPIs from 3 different Licensees to understand online gaming trends and ultimately come up with insights and suggestions for how to improve business growth.
 
 ## Data Description (Original csv file [here](https://github.com/ereedy777/Online_Gaming_Betting/blob/main/Online_Sports_Betting.csv))
-  1. Licensee: Entity that operates on betting or wagering activities
-####  2. Fiscal_Year: The Fiscal Years that this is derived from (FY 21 - FY 23)
-####  3. date: End date of month 
-####  4. Wag: The amount of wagering 
-####  5. Patron_win: The winnings from the bettors
-####  6. Cancelled_wag: amount of cancelled wagers
-####  7. Monthly_resettlements: wagers where the original settled wager result is modified due to an error or change in result of the underlying event
-####  8. Monthly online sports revenue
-####  9. Fed_tax: Federal tax which is 0.25% of Net Wagers
-####  10. Unadj_month_game_rev: The unadjusted monthly gaming revenue
-####  11. Coup_credit_wag: Coupons and credits issued for use for gaming in the state and redeemed in the State of Connecticut
-####  12. Promo_Deduct: Amount of promootional credits, bonuses, or incentivves reduced from Gross Gaming Revenue for its Net Gaming Revenue
-####  13. Total_gross_game_rev: 
-####  14. Payment: Payment rate which is 13.75% of Gross Gaming Revenue
+1. Licensee: Entity that operates on betting or wagering activities
+2. Fiscal_Year: The Fiscal Years that this is derived from (FY 21 - FY 23)
+3. date: End date of month 
+4. Wag: The amount of wagering 
+5. Patron_win: The winnings from the bettors
+6. Cancelled_wag: amount of cancelled wagers 7. Monthly_resettlements: wagers where the original settled wager result is modified due to an error or change in result of the underlying event
+8. Monthly online sports revenue
+9. Fed_tax: Federal tax which is 0.25% of Net Wagers
+10. Unadj_month_game_rev: The unadjusted monthly gaming revenue
+11. Coup_credit_wag: Coupons and credits issued for use for gaming in the state and redeemed in the State of Connecticut
+12. Promo_Deduct: Amount of promootional credits, bonuses, or incentivves reduced from Gross Gaming Revenue for its Net Gaming Revenue
+13. Total_gross_game_rev: 
+14. Payment: Payment rate which is 13.75% of Gross Gaming Revenue
 
 ## Data Cleaning and Modification (For link, click [here](https://github.com/ereedy777/Online_Gaming_Betting/blob/main/Data_Alteration.sql))
-#### 15.  win_rate: This would be taken as the Return to Player(RTP) value
-#### 16. GGR: Gross Gaming Revenue (This will be the primary gross revenue utilized in analysis)
-#### 17. NGR: Net Gaming Revenue
+15.  win_rate: This would be taken as the Return to Player(RTP) value
+16. GGR: Gross Gaming Revenue (This will be the primary gross revenue utilized in analysis)
+17. NGR: Net Gaming Revenue
 
 ## Overall Analysis using SQL 
 ### [Click here](https://github.com/ereedy777/Online_Gaming_Betting/blob/main/All_online_betting.sql) to view overall SQL analysis
 
-#### 1. Total GGR 
-#### 2. Average Wagering Amount and Average Patron Winning Amount
-#### 3. Average GGR 
-#### 4. Hold Percentage = GGR / Wag
-#### 5. GGR per Wager
-#### 6. Average Return to Player % (RTP)
+1. Total GGR 
+2. Average Wagering Amount and Average Patron Winning Amount
+3. Average GGR 
+4. Hold Percentage = GGR / Wag
+5. GGR per Wager
+6. Average Return to Player % (RTP)
 
 
 ## Analysis for specific Licensee (MPI Master Wagering License CT, LLC)
 
-##### 1. Overall MPI Data
-#### 2. Gross Gaming Revenue by MPI
-#### 3. YOY Average Gross Gaming Revenue by MPI
-#### 4. Quarterly report of Amounts Wagered 
-#### 5. Which months usually have highest aamount wagered
-#### 6. Quarterly report of Coupon/Credit Wagered
-#### 7. YOY Average Net Gaming Revenue (NGR)
-#### 8. Average Hold Percentage 
-#### 9. Average Revenue Per Wager
-#### 10. Months where Return to Player rate is larger than 96%
-#### 11. NGR to Promotional Expenses Ratio (Coupon/Credit Wagered + Promo Deductions)
+1. Overall MPI Data
+2. Gross Gaming Revenue by MPI
+3. YOY Average Gross Gaming Revenue by MPI
+4. Quarterly report of Amounts Wagered 
+5. Which months usually have highest aamount wagered
+6. Quarterly report of Coupon/Credit Wagered
+7. YOY Average Net Gaming Revenue (NGR)
+8. Average Hold Percentage 
+9. Average Revenue Per Wager
+10. Months where Return to Player rate is larger than 96%
+11. NGR to Promotional Expenses Ratio (Coupon/Credit Wagered + Promo Deductions)
 
 
 ## Data Visualization using [Power BI dashboad](https://github.com/ereedy777/Online_Gaming_Betting/blob/main/Online_betting_new.pbix)
