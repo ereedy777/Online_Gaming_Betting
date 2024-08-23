@@ -36,6 +36,7 @@
 
 
 ## Analysis for specific Licensee (MPI Master Wagering License CT, LLC)
+### [Click here](https://github.com/ereedy777/Online_Gaming_Betting/blob/main/MPI.sql) to view MPI Master Wagering License Analysis
 
 1. Overall MPI Data
 2. Gross Gaming Revenue by MPI
