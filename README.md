@@ -53,7 +53,6 @@
 
 ## Data Visualization using [Power BI dashboad](https://github.com/ereedy777/Online_Gaming_Betting/blob/main/Online_betting_new.pbix)
 
-![Image Alt](https://github.com/ereedy777/Online_Gaming_Betting/blob/7351e0b38fc1bd0120be8b4401711cdc681f3c2e/Online_Betting_Overall.png)
 
 ## Overall Analysis
 ### Insights on Overall Online Betting Analysis
@@ -63,7 +62,7 @@
 4. Average Hold Percentage across 3 Licensees is around 9.6% & RTP rate acorss 3 Licensees is around 90.4% (Good RTP = above 96%)
 5. Difference between monthly average GGR and NGR falls within the range of $1 - $3 million (Difference = Promotional Expenses)
 
-![Image Alt](https://github.com/ereedy777/Online_Gaming_Betting/blob/7351e0b38fc1bd0120be8b4401711cdc681f3c2e/Online_Betting_Promo.png)
+![Image Alt](https://github.com/ereedy777/Online_Gaming_Betting/blob/7351e0b38fc1bd0120be8b4401711cdc681f3c2e/Online_Betting_Overall.png)
 
 ## Promotional Expenses Analysis
 
@@ -71,6 +70,9 @@
 1. Total Promotional Deductions is around $57 million and total credits wagered is $82 million
 2. For most cases, as there was an increase in promotional expenses, Average NGR increased => Positive correlation between the two variables
 3. Average difference in credits wagered and promo deductions is around $200K - $1 million
+
+
+![Image Alt](https://github.com/ereedy777/Online_Gaming_Betting/blob/7351e0b38fc1bd0120be8b4401711cdc681f3c2e/Online_Betting_Promo.png)
 
 ### Overall Strategic Reccomendations
 1. Have a targeted promotions -> tailor promotions for certain customers based on activities & preferences
